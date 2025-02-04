@@ -1,6 +1,6 @@
 # Projeto de Semáforo com Raspberry Pi Pico W
 
-Este repositório contém o código para simular um semáforo utilizando o microcontrolador Raspberry Pi Pico W, LEDs e temporizador periódico.
+Este repositório contém o código para simular um semáforo, referente a atividade 1 ,utilizando o microcontrolador Raspberry Pi Pico W, LEDs e temporizador periódico. E esse é o link do repositorio da Atividade 2- temporizador one shot : https://github.com/Davileao10/Temporizador
 
 ## Descrição da Atividade
 
